@@ -14,7 +14,7 @@ metadata:
     - url: https://devspaces.apps.cluster-xxxxx.xxxxx.sandbox123.opentlc.com/#https://github.com/openshift-tigerteam/test-demo-app?che-editor=che-incubator/che-code/insiders&devfilePath=.devfile-vscode.yaml
       title: CodeReady Workspaces (VS Code)
       icon: web
-    - url: https://devspaces.apps.cluster-xxxxx.xxxxx.sandbox123.opentlc.com/#https://github.com/openshift-tigerteam/test-demo-app?che-editor=che-incubator/che-idea/latest&devfilePath=.devfile-intellij.yaml
+    - url: https://devspaces.apps.ocp4-vwbd2-ipi.azure.opentlc.com/#https://github.com/openshift-tigerteam/test-demo-app?che-editor=che-incubator/che-idea/latest&devfilePath=.devfile-intellij.yaml
       title: CodeReady Workspaces (JetBrains IntelliJ)
       icon: web
 spec:
